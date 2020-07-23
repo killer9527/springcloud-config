@@ -1,3 +1,2 @@
 common:
-  config:
-    info: common-info, master branch, springcloud-config/config-client-dev.yml
+  info: common-info, master branch, springcloud-config/config-client-dev.yml
